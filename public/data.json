@@ -1,0 +1,111 @@
+[
+    {
+      "id":1,
+      "image": "https://i.ibb.co/mcPph59/Rectangle-4288.png",
+      "title": "Clothing",
+      "category": "Clothing Drive",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "price": 199.99,
+      "colors": ["Black", "Silver", "Gray"]
+    },
+    {
+      "id":2,
+      "image": "https://i.ibb.co/n8KtdyT/Health.png",
+      "title": "Product 2",
+      "category": "Clothing",
+      "description": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+      "price": 49.95,
+      "colors": ["Blue", "Red", "Green"]
+    },
+    {
+      "id":3,
+      "image": "https://i.ibb.co/mcPph59/Rectangle-4288.png",
+      "title": "Health",
+      "category": "Clean water for children",
+      "description": "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi.",
+      "price": 129.99,
+      "colors": ["White", "Black", "Blue"]
+    },
+    {
+      "id":4,
+      "image": "https://i.ibb.co/k9sq08N/Clothing.png",
+      "title": "Product 4",
+      "category": "Books",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "price": 19.95,
+      "colors": ["Red", "Green", "Blue"]
+    },
+    {
+      "id":5,
+      "image": "https://i.ibb.co/Q67Wnh3/Food.png",
+      "title": "Healts",
+      "category": "Clean water for children",
+      "description": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "price": 39.99,
+      "colors": ["Yellow", "Orange", "Pink"]
+    },
+    {
+      "id":6,
+      "image": "https://i.ibb.co/mcPph59/Rectangle-4288.png",
+      "title": "Product 6",
+      "category": "Sports & Outdoors",
+      "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit.",
+      "price": 149.99,
+      "colors": ["Green", "Blue", "Gray"]
+    },
+    {
+      "id":7,
+      "image": "https://i.ibb.co/k9sq08N/Clothing.png",
+      "title": "Product 7",
+      "category": "Beauty",
+      "description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur.",
+      "price": 79.95,
+      "colors": ["Pink", "Silver", "Gold"]
+    },
+    {
+      "id":8,
+      "image": "https://i.ibb.co/n8KtdyT/Health.png",
+      "title": "Health",
+      "category": "Clean water for children",
+      "description": "Sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+      "price": 249.99,
+      "colors": ["Silver", "Gold", "Rose Gold"]
+    },
+    {
+      "id":9,
+      "image": "https://i.ibb.co/Q67Wnh3/Food.png",
+      "title": "Product 9",
+      "category": "Furniture",
+      "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam.",
+      "price": 399.99,
+      "colors": ["Brown", "Beige", "White"]
+    },
+    {
+      "id":10,
+      "image": "https://i.ibb.co/k9sq08N/Clothing.png",
+      "title": "Product 10",
+      "category": "Health & Personal Care",
+      "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur.",
+      "price": 29.95,
+      "colors": ["White", "Blue", "Green"]
+    },
+    {
+      "id":11,
+      "image": "https://i.ibb.co/Q67Wnh3/Food.png",
+      "title": "Education",
+      "category": "Good Education",
+      "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti.",
+      "price": 299.99,
+      "colors": ["Gray", "Black", "Silver"]
+    },
+    {
+      "id":12,
+      "image": "https://i.ibb.co/n8KtdyT/Health.png",
+      "title": "Health",
+      "category": "Clean water for children",
+      "description": "Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat.",
+      "price": 9.99,
+      "colors": ["Purple", "Pink", "Blue"]
+    }
+  ]
+  
