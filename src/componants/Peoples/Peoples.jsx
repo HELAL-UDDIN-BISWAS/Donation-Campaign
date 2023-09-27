@@ -3,7 +3,7 @@ import Peopless from "../people/People";
 const Peoples = ({People}) => {
     // console.log(People)
     return (
-        <div className="grid grid-cols-4 gap-2 mt-7">
+        <div className="grid lg:grid-cols-4 sm:grid-cols-2 gap-2 mt-7">
             {
                 People?.map(Peopl=> <Peopless Peopl={Peopl}></Peopless> )
                
