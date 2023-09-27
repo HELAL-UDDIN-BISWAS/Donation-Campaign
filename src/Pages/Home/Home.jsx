@@ -5,13 +5,12 @@ import Peoples from "../../componants/Peoples/Peoples";
 const Home = () => {
 
  const People=useLoaderData();
-//  console.log(Peopless)
-
     return (
       <div>
-        <div className="h-[50vh] bg-red-200">
+        <div className="">
           <Banner></Banner>
           </div>
+         
           <div className="flex">
              <Peoples People={People}></Peoples>
           </div>

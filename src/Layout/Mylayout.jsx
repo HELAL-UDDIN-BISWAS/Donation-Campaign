@@ -4,7 +4,7 @@ import Donation from "../Pages/Donation/Donation";
 
 const Mylayout = () => {
     return (
-        <div>
+        <div  className="max-w-[1280px] mx-auto">
        <Navber></Navber>
       
         <Outlet>

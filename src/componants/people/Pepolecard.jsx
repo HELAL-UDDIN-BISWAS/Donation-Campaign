@@ -1,3 +1,4 @@
+import swal from "sweetalert";
 
 const Pepolecard = ({people}) => {
     const {id,image,title,description,price}=people || {}
@@ -9,15 +10,17 @@ const Pepolecard = ({people}) => {
   if(!donationed){
    addeddonation.push(people);
    localStorage.setItem('donation', JSON.stringify(addeddonation))
-
+   swal("Good job!", "You clicked the button!", "success");
   }
   else{
   const isExits=donationed.find(people=>people.id == id)
+  swal("Good job!", "You clicked the button!", "success");
+
 if(!isExits){
     addeddonation.push(...donationed,people)
    localStorage.setItem('donation', JSON.stringify(addeddonation))
 }else{
-    alert("alrady i have")
+    swal("Good job!", "You clicked the button!", "error");
 }  
   }
    }
