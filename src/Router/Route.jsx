@@ -4,6 +4,7 @@ import Home from "../Pages/Home/Home";
 import Donation from "../Pages/Donation/Donation";
 import Statistics from "../Pages/Statistics/Statistics";
 import OneByPeoples from "../Pages/OneByPeoples/OneByPeoples";
+import Nopage from "../Pages/Nopage ";
 
 
 
@@ -12,6 +13,7 @@ const MyRoute = createBrowserRouter([
         {
           path: "/",
           element: <Mylayout></Mylayout>,
+          errorElement:<Nopage></Nopage>,
           children: [
             {
               path: "/",
