@@ -29,7 +29,7 @@ const MyRoute = createBrowserRouter([
             {
               path:"OneByPeoples/:id",
                element:<OneByPeoples></OneByPeoples>,
-                
+               loader:()=> fetch('/data.json'),
             }
           ],
         },

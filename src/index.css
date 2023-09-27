@@ -2,3 +2,6 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+h4{
+    background-color: rgba(74, 73, 73, 0.5);
+}
